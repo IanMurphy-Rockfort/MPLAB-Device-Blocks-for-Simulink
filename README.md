@@ -56,6 +56,8 @@ This version embed a third part tool adding blocks for UAVs projects (GPS, MAVLi
   - xc32 compiler for 32 bits devices [download](https://www.microchip.com/xc32) (PIC32, SAMx5, SAMx7)
 
 ## Release notes
+- v3.47.001:
+  - fix I2C register name issue for dsPIC 33EV chip
 - v3.47.00:
   - Added SPI support for dsPIC GS, CH, CK
   - Fixed pin mapping inconsistency on dualcore dsPIC for Secondary Core
